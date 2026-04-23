@@ -1,6 +1,7 @@
 :HL["/_next/static/chunks/05cely29i7mur.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap","style"]
 :HL["https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap","style"]
+:HL["/ai-vs1984.png","image"]
 :HL["/p2p-ai-image.png","image"]
 :HL["/why-now-compliance.webp","image"]
 :HL["/why-now-silo.webp","image"]
@@ -8,4 +9,4 @@
 :HL["/users-illustration.png","image"]
 :HL["/providers-illustration.png","image"]
 :HL["/organizations-illustration.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"zh","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"19jwUUik2ipLDn8lmPzRm"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"zh","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"bACybuy-b2uPd2In0bFu9"}
