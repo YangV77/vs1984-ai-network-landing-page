@@ -1,0 +1,24 @@
+{
+  "name": "VS1984",
+  "short_name": "VS1984 AI",
+  "description": "VS1984 AI for the Hidden 80%",
+  "lang": "zh-CN",
+  "start_url": "/zh",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "icons": [
+    {
+      "src": "/ai-vs1984-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/ai-vs1984-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
